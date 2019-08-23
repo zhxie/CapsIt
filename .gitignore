@@ -1,0 +1,15 @@
+// Archived Directory
+.archive
+
+// Append Directory
+Append
+
+// Executable files
+*.exe
+*.bat
+
+// Resources
+*.ico
+
+// Local configuration
+config.ini
